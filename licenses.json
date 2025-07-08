@@ -1,15 +1,15 @@
 {
-  "last_update": "2025-07-08T22:03:20.672Z",
+  "last_update": "2025-07-08T22:13:19.065Z",
   "total_licenses": 1,
-  "active_licenses": 1,
+  "active_licenses": 0,
   "licenses": {
     "WHQA-M47N-71KW-BA7T": {
       "user_id": "704971628802736129",
       "customer_name": "Alwaleed",
       "product_name": "AdminControl",
-      "status": "active",
+      "status": "suspended",
       "expires_at": null,
-      "last_update": "2025-07-08T22:03:20.672Z"
+      "last_update": "2025-07-08T22:13:19.065Z"
     }
   }
 }
