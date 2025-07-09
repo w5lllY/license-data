@@ -1,15 +1,6 @@
 {
-  "last_update": "2025-07-09T15:13:21.400Z",
-  "total_licenses": 1,
-  "active_licenses": 1,
-  "licenses": {
-    "U7LF-MO61-F696-W3MH": {
-      "user_id": "704971628802736129",
-      "customer_name": "Alwaleed",
-      "product_name": "AdminControl",
-      "status": "active",
-      "expires_at": null,
-      "last_update": "2025-07-09T15:13:21.400Z"
-    }
-  }
+  "last_update": "2025-07-09T15:13:50.286Z",
+  "total_licenses": 0,
+  "active_licenses": 0,
+  "licenses": {}
 }
