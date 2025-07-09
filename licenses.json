@@ -1,7 +1,7 @@
 {
-  "last_update": "2025-07-09T22:16:25.521Z",
-  "total_licenses": 2,
-  "active_licenses": 1,
+  "last_update": "2025-07-09T22:17:57.601Z",
+  "total_licenses": 1,
+  "active_licenses": 0,
   "licenses": {
     "OQDE-XK8H-KT87-RDWM": {
       "user_id": "704971628802736129",
@@ -9,15 +9,7 @@
       "product_name": "AdminControl",
       "status": "suspended",
       "expires_at": null,
-      "last_update": "2025-07-09T22:16:25.521Z"
-    },
-    "Z0E9-VQGX-JEUT-9N44": {
-      "user_id": "704971628802736129",
-      "customer_name": "Alwaleed",
-      "product_name": "AdminControl",
-      "status": "active",
-      "expires_at": null,
-      "last_update": "2025-07-09T22:16:25.521Z"
+      "last_update": "2025-07-09T22:17:57.601Z"
     }
   }
 }
