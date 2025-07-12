@@ -1,15 +1,6 @@
 {
-  "last_update": "2025-07-12T13:39:16.744Z",
-  "total_licenses": 1,
-  "active_licenses": 1,
-  "licenses": {
-    "OQDE-XK8H-KT87-RDWM": {
-      "user_id": "704971628802736129",
-      "customer_name": "Alwaleed",
-      "product_name": "AdminControl",
-      "status": "active",
-      "expires_at": null,
-      "last_update": "2025-07-12T13:39:16.744Z"
-    }
-  }
+  "last_update": "2025-07-12T13:40:28.011Z",
+  "total_licenses": 0,
+  "active_licenses": 0,
+  "licenses": {}
 }
