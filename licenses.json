@@ -1,7 +1,7 @@
 {
-  "last_update": "2025-07-23T21:39:28.737Z",
-  "total_licenses": 1,
-  "active_licenses": 1,
+  "last_update": "2025-07-23T21:43:14.051Z",
+  "total_licenses": 2,
+  "active_licenses": 2,
   "licenses": {
     "6KG0-WLLG-CKVV-2UJU": {
       "user_id": "704971628802736129",
@@ -9,7 +9,15 @@
       "product_name": "AdminControl",
       "status": "active",
       "expires_at": null,
-      "last_update": "2025-07-23T21:39:28.737Z"
+      "last_update": "2025-07-23T21:43:14.051Z"
+    },
+    "PZ37-AKNX-OAEU-XSKW": {
+      "user_id": "1320790403946905685",
+      "customer_name": "Frank",
+      "product_name": "AdminControl",
+      "status": "active",
+      "expires_at": null,
+      "last_update": "2025-07-23T21:43:14.051Z"
     }
   }
 }
