@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-07-23T21:43:14.051Z",
+  "last_update": "2025-07-23T21:49:28.739Z",
   "total_licenses": 2,
   "active_licenses": 2,
   "licenses": {
@@ -9,7 +9,7 @@
       "product_name": "AdminControl",
       "status": "active",
       "expires_at": null,
-      "last_update": "2025-07-23T21:43:14.051Z"
+      "last_update": "2025-07-23T21:49:28.739Z"
     },
     "PZ37-AKNX-OAEU-XSKW": {
       "user_id": "1320790403946905685",
@@ -17,7 +17,7 @@
       "product_name": "AdminControl",
       "status": "active",
       "expires_at": null,
-      "last_update": "2025-07-23T21:43:14.051Z"
+      "last_update": "2025-07-23T21:49:28.739Z"
     }
   }
 }
