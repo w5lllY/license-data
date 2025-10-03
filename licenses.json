@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-10-03T07:43:34.503Z",
+  "last_update": "2025-10-03T07:53:34.520Z",
   "total_licenses": 1,
   "active_licenses": 1,
   "licenses": {
@@ -9,7 +9,7 @@
       "product_name": "AdminControl",
       "status": "active",
       "expires_at": null,
-      "last_update": "2025-10-03T07:43:34.502Z"
+      "last_update": "2025-10-03T07:53:34.519Z"
     }
   }
 }
